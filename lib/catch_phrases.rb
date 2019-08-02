@@ -14,6 +14,6 @@ def link
 end
 
 def any_phrase 
-  status = 'Its Dangerous To Go Alone! Take This'
+  status = 'Do A Barrel Roll!'
   puts phrase
 end
